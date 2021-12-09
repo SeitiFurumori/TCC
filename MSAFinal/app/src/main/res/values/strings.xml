@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MSA</string>
+    <string name="mensagem_foto_produto">Adicione uma foto do produto desejado</string>
+    <string name="adicionar_nome">Adicione o nome do produto / marca</string>
+    <string name="adicionar_preco">Preço do produto:</string>
+    <string name="adicionar_descricao">Descrição geral do produto / detalhes</string>
+    <string name="adicionar_quantidade">Quantidade em estoque</string>
+    <string name="buttonCancelar">Cancelar</string>
+    <string name="buttonCadastrar">Cadastrar</string>
+    <string name="marca_inicial">MSA - Mobile Shop Agency</string>
+    <string name="usuario_login">Usuário:</string>
+    <string name="senha_login">Senha:</string>
+    <string name="hint_senha"> Digite sua senha...</string>
+    <string name="hint_email"> Digite seu email...</string>
+    <string name="buttonCadastro">Cadastrar</string>
+    <string name="buttonLogin">Login</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuario</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="clienteNome">Nome</string>
+    <string name="clienteEmail">E mail</string>
+    <string name="clienteSenha">Senha</string>
+    <string name="clienteUsuario">Usuario</string>
+    <string name="clienteTelefone1">Telefone</string>
+    <string name="clienteTelefone2">Telefone 2</string>
+
+    <string name="cadastrar">Cadastrar</string>
+    <string name="contato">Novo Contato</string>
+    <string name="produto">Novo Produto</string>
+    <string name="venda">Nova Venda</string>
+    <string name="email_login">Email:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

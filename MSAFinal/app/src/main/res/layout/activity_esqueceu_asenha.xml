@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8ECDFF"
+    tools:context=".EsqueceuASenhaActivity">
+
+    <EditText
+        android:id="@+id/editTextEmailDeRecuperacao"
+        android:layout_width="382dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="120dp"
+        android:ems="10"
+        android:hint="Email da sua conta"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonEnviarEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="172dp"
+        android:text="Enviar e-mail"
+        app:layout_constraintEnd_toEndOf="@+id/editTextEmailDeRecuperacao"
+        app:layout_constraintStart_toStartOf="@+id/editTextEmailDeRecuperacao"
+        app:layout_constraintTop_toBottomOf="@+id/editTextEmailDeRecuperacao" />
+
+    <Button
+        android:id="@+id/buttonSairEsqueceu"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Voltar"
+        app:layout_constraintEnd_toEndOf="@+id/buttonEnviarEmail"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonEnviarEmail"
+        app:layout_constraintTop_toBottomOf="@+id/buttonEnviarEmail" />
+</androidx.constraintlayout.widget.ConstraintLayout>

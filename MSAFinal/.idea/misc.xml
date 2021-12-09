@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aluno/Documents/Felipe/MSA New/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/activity_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/activity_tela_listar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/activity_troca_nome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/activity_troca_senha.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Delanhese/MSA versao rennan/MSA New F/MSA New F/app/src/main/res/layout/fragment_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Felipe/MSA QuaseFinal/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Felipe/MSA QuaseFinal/app/src/main/res/layout/dialog_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New F/app/src/main/res/drawable/bg_button_img.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New F/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New F/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA New/app/src/main/res/layout/fragment_adicionar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/drawable/bg_button_img.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/drawable/bg_button_redondo.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/drawable/bg_edittext_redondo.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.275" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/layout/fragment_adicionar.xml" value="0.275" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/layout/fragment_perfil.xml" value="0.275" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA QuaseFinal/app/src/main/res/layout/layout_listar.xml" value="0.5" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA novo/MSA New F/app/src/main/res/drawable/gradient_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA novo/MSA New F/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA novo/MSA New F/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA novo/MSA New F/app/src/main/res/layout/activity_splash_dev_media.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA novo/MSA New F/app/src/main/res/layout/fragment_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/drawable/bg_button_img.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/drawable/bg_button_redondo.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/drawable/bg_edittext_redondo.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.25" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSA/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSAFinal/app/src/main/res/layout/fragment_home.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/aluno/Documents/Rennan/MSAFinal/app/src/main/res/layout/layout_listar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA New F/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA New F/app/src/main/res/layout/fragment_pdf.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA New F/app/src/main/res/menu/menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/bg_button_img.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/bg_button_redondo.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/bg_edittext_redondo.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/gradient_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_baseline_widgets_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/layout/activity_troca_nome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/layout/activity_troca_senha.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/layout/fragment_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/MSA QuaseFinal/app/src/main/res/layout/fragment_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_email.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_esqueceu_asenha.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_grafico.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_perfil.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_tela_listar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_troca_nome.xml" value="0.25" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/activity_troca_senha.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/dialog_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/dialog_signin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_adicionar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_home.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_mais.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_p_d_f.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_pdf.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/fragment_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/layout/layout_listar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA QuaseFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/fragment_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA SeitiVersion/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA/app/src/main/res/layout/activity_pagina_inicial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSA/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/MSAFinal/app/src/main/res/layout/activity_troca_senha.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/OneDrive_2021-10-01 (2)/msa joao e rennan/MSA New F (1)/MSA New F/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/OneDrive_2021-10-01 (2)/msa joao e rennan/MSA New F (1)/MSA New F/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/OneDrive_2021-10-01 (2)/msa joao e rennan/MSA New F (1)/MSA New F/app/src/main/res/layout/fragment_adicionar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Documents/Seiti/OneDrive_2021-10-01 (2)/msa joao e rennan/MSA New F (1)/MSA New F/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Downloads/MSA/app/src/main/res/layout/activity_cadastrar_produto.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/aluno/Downloads/MSA/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/aluno/Downloads/MSA/app/src/main/res/layout/activity_main.xml" value="0.3416666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

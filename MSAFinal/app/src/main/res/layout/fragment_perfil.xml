@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainActivy"
+    tools:context=".PerfilFragment" >
+
+    <TextView
+        android:id="@+id/textViewPerfil"
+        android:layout_width="126dp"
+        android:layout_height="34dp"
+        android:fontFamily="@font/aclonica"
+        android:gravity="center"
+        android:text="Perfil"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewWelcome"
+        android:layout_width="181dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="@font/aclonica"
+        android:text="Bem vindo, "
+        android:textColor="#000000"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonTrocaSenha"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/bg_button_redondo"
+        android:text="ALTERAR"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/buttonTrocaNome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonTrocaNome"
+        app:layout_constraintTop_toBottomOf="@+id/buttonTrocaNome"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="DuplicateClickableBoundsCheck" />
+
+    <TextView
+        android:id="@+id/textViewTrocaSenha"
+        android:layout_width="185dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="40dp"
+        android:text="Deseja editar sua senha?"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textViewTrocaNome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textViewTrocaNome"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTrocaNome"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textViewTrocaNome"
+        android:layout_width="185dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="312dp"
+        android:text="Deseja editar seu nome?"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvNome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tvNome"
+        app:layout_constraintTop_toBottomOf="@+id/tvNome" />
+
+    <TextView
+        android:id="@+id/textViewTrocaNome2"
+        android:layout_width="185dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="248dp"
+        android:text="Deseja editar seu email?"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvNome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tvNome"
+        app:layout_constraintTop_toBottomOf="@+id/tvNome" />
+
+    <Button
+        android:id="@+id/buttonTrocaNome"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/bg_button_redondo"
+        android:text="Alterar"
+        app:layout_constraintEnd_toEndOf="@+id/buttonTrocaEmail"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonTrocaEmail"
+        app:layout_constraintTop_toBottomOf="@+id/buttonTrocaEmail" />
+
+    <Button
+        android:id="@+id/buttonTrocaEmail"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="240dp"
+        android:background="@drawable/bg_button_redondo"
+        android:text="Alterar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvNome" />
+
+    <TextView
+        android:id="@+id/tvNome"
+        android:layout_width="160dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="@+id/textViewWelcome"
+        app:layout_constraintTop_toBottomOf="@+id/textViewWelcome" />
+
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="Sair"
+        android:background="@drawable/bg_button_redondo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/textViewPerfil"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

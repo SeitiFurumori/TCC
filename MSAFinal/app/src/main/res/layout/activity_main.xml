@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8ECDFF"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewUsuario"
+        android:layout_width="158dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="128dp"
+        android:orientation="horizontal"
+        android:text="@string/email_login"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edit_logar_mail"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_edittext_redondo"
+        android:ems="10"
+        android:hint="@string/hint_email"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="#9C9C9C"
+        app:layout_constraintEnd_toEndOf="@+id/textViewUsuario"
+        app:layout_constraintStart_toStartOf="@+id/textViewUsuario"
+        app:layout_constraintTop_toBottomOf="@+id/textViewUsuario" />
+
+    <TextView
+        android:id="@+id/textViewSenha"
+        android:layout_width="122dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/senha_login"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_logar_mail"
+        app:layout_constraintStart_toStartOf="@+id/edit_logar_mail"
+        app:layout_constraintTop_toBottomOf="@+id/edit_logar_mail" />
+
+    <Button
+        android:id="@+id/btn_logar"
+        android:layout_width="297dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/bg_button_redondo"
+        android:text="@string/buttonLogin"
+        app:layout_constraintEnd_toEndOf="@+id/edit_logar_senha"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="@+id/edit_logar_senha"
+        app:layout_constraintTop_toBottomOf="@+id/edit_logar_senha" />
+
+    <Button
+        android:id="@+id/btn_openCadastro"
+        android:layout_width="297dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_button_redondo"
+        android:backgroundTint="#2FA3FF"
+        android:text="@string/buttonCadastro"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btn_logar"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_logar"
+        app:layout_constraintTop_toBottomOf="@+id/btn_logar"
+        app:layout_constraintVertical_bias="0.111" />
+
+    <EditText
+        android:id="@+id/edit_logar_senha"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_edittext_redondo"
+        android:ems="10"
+        android:hint="Digite sua senha..."
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:textColorHint="#9C9C9C"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/textViewSenha"
+        app:layout_constraintStart_toStartOf="@+id/textViewSenha"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSenha" />
+
+    <TextView
+        android:id="@+id/textViewEsqueceuASenha"
+        android:layout_width="122dp"
+        android:layout_height="48dp"
+        android:onClick="OnClickEsqueceu"
+        android:text="Esqueceu a senha?"
+        app:layout_constraintBottom_toTopOf="@+id/btn_logar"
+        app:layout_constraintEnd_toEndOf="@+id/edit_logar_senha"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="@+id/edit_logar_senha"
+        app:layout_constraintTop_toBottomOf="@+id/edit_logar_senha"
+        app:layout_constraintVertical_bias="0.432" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
