@@ -1,4 +1,4 @@
 # TCC
+<p align="center">Projeto de finalização do SENAI</p>
+<p align="center">Projeto feito em Android Studio(Java) sobre gerenciamento de estoque</p>
 
-# #Projeto de finalização do SENAI
-# #Projeto feito em Android Studio(Java) sobre gerenciamento de estoque
